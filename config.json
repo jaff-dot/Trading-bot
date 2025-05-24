@@ -1,0 +1,6 @@
+{
+  "binance_api": "your_binance_api_key",
+  "binance_secret": "your_binance_api_secret",
+  "telegram_token": "your_telegram_bot_token",
+  "telegram_chat_id": "your_telegram_chat_id"
+}
